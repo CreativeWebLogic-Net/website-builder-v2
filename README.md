@@ -27,4 +27,4 @@
     Projects | Source code | SVN Support | FAQs | Security | User / Server - Statistics | 
     Remote Storage / Backup
 
-[channels.md](#channels.md)
+[CHANNELS.md](#CHANNELS.md)
