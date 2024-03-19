@@ -27,4 +27,4 @@
     Projects | Source code | SVN Support | FAQs | Security | User / Server - Statistics | 
     Remote Storage / Backup
 
-    channels.md
+    <a href="./channels.md">Channels List</a>
