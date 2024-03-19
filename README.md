@@ -26,3 +26,5 @@
     Versioning | Updates | Polls | Book Keeping | Accounting | Support Packages | Package Managers
     Projects | Source code | SVN Support | FAQs | Security | User / Server - Statistics | 
     Remote Storage / Backup
+
+    channels.md
