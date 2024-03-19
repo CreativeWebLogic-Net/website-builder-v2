@@ -27,5 +27,3 @@
 
  Standard Modules:
  News / Links / Wiki / BBS / FAQs
-
-[CHANNELS.md](CHANNELS.md)
