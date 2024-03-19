@@ -1,30 +1,31 @@
 # iCWLNet Website Helper
  The full install of our website builder.
- Multi-Database:-<br>
- <br>
- MySQL<br>
- PostgreSQL<br>
- Sqlite 3<br>
- <br>
- 
 
  Features:-
-    Multi-Domain
-    Multi-User
-    Multiple Organizations
-    Multi-Server
-    Multi-Operating System
-    Multi-Web-Control Panel
-    Local Server
-    Local Syncronized with remote
-    Customizable Interface
-    Customizable Templates
-    News | Links | Assets | Pages 
-    | Wiki | Web BBS | telnet BBS | Bug tracking |
-    Features | Issues | Documentation | Project Management |
-    Monitoring | Virus Scanning | Firewall Control | Browser Plugin |
-    Versioning | Updates | Polls | Book Keeping | Accounting | Support Packages | Package Managers
-    Projects | Source code | SVN Support | FAQs | Security | User / Server - Statistics | 
-    Remote Storage / Backup
+ 
+ Multi-Database:<br>
+ MySQL / PostgreSQL / Sqlite 3
+ Replicate to remote and between different types.
+ 
+ Multi-Domain:
+ Serving many different domain names from one central code base.
+ 
+ Multi-User:
+ Many different user types and individuals can log in and update content.
+ 
+ Multiple Organizations:
+ Add your company details and others that can be claimed.  
+ 
+ Hosting Features:
+ Designed with the ability to host on many different server and hosting control panel types.
+ Clustering features let you distribute the load and replication aids in backups.
+ Runs on local hosting servers like Xampp and Mamp.
+
+ Customizable Interface:
+ Update any template.
+ Update any code class or method.
+
+ Standard Modules:
+ News / Links / Wiki / BBS / FAQs
 
 [CHANNELS.md](CHANNELS.md)
